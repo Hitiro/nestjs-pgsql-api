@@ -12,6 +12,5 @@ export const mailerConfig: MailerOptions = {
             layoutsDir: path.resolve(__dirname, '..', '..', 'templates'),
         },
     },
-    transport: `smtps://hitiro.tecnico@gmail.com:kh4j1j4***@smtp.gmail.com`,
-    // transport: `smtps://alguem@gmail.com:senha-super-secreta@smtp.gmail.com`
+    transport: `smtps://alguem@gmail.com:senha-super-secreta@smtp.gmail.com`
 }
