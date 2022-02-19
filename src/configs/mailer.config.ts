@@ -13,8 +13,4 @@ export const mailerConfig: MailerOptions = {
         },
     },
     transport: `smtps://alguem@gmail.com:senha-super-secreta@smtp.gmail.com`
-<<<<<<< HEAD
 }
-=======
-}
->>>>>>> 8c68221d6c3da080a1b8a6f3671b3a3a5c60c81d
